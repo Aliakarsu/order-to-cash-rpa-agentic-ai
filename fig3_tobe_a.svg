@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1780" height="720" viewBox="0 0 1780 720">
+<defs>
+<marker id="arrow" markerWidth="11" markerHeight="9" refX="10" refY="4.5" orient="auto">
+<polygon points="0 0, 11 4.5, 0 9" fill="#333"/></marker>
+<marker id="openarrow" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto">
+<polyline points="1 1, 11 5, 1 9" fill="none" stroke="#555" stroke-width="1.3"/></marker>
+</defs>
+<rect x="0" y="0" width="1780" height="720" fill="#ffffff"/>
+<rect x="40" y="20" width="1700" height="46" fill="#f5f5f5" stroke="#333" stroke-width="1.6"/>
+<text x="890.0" y="48.0" font-family="Helvetica, Arial, sans-serif" font-size="18.9" font-weight="bold" text-anchor="middle">Customer (Restaurant / Retailer)</text>
+<rect x="40" y="90" width="1700" height="600" fill="none" stroke="#333" stroke-width="1.6"/>
+<line x1="70" y1="90" x2="70" y2="690" stroke="#333" stroke-width="1.2"/>
+<text x="55.0" y="390.0" font-family="Helvetica, Arial, sans-serif" font-size="18.9" font-weight="bold" text-anchor="middle" transform="rotate(-90 55.0 390.0)">WholesaleCo - Order-to-Cash (To-Be), Phase A</text>
+<rect x="72" y="90" width="1668" height="330" fill="none" stroke="#333" stroke-width="1"/>
+<line x1="100" y1="90" x2="100" y2="420" stroke="#999" stroke-width="0.8"/>
+<text x="86.0" y="255.0" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle" transform="rotate(-90 86.0 255.0)">Automation Layer (AI agent + RPA bots)</text>
+<rect x="72" y="420" width="1668" height="270" fill="none" stroke="#333" stroke-width="1"/>
+<line x1="100" y1="420" x2="100" y2="690" stroke="#999" stroke-width="0.8"/>
+<text x="86.0" y="555.0" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle" transform="rotate(-90 86.0 555.0)">Sales Representative</text>
+<circle cx="140" cy="200" r="18" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<rect x="131.45" y="194.015" width="17.099999999999998" height="11.969999999999997" fill="none" stroke="#555" stroke-width="1.2"/>
+<path d="M 131.45 194.015 L 140.0 200.855 L 148.54999999999998 194.015" fill="none" stroke="#555" stroke-width="1.2"/>
+<text x="140" y="235" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">Order e-mail</text>
+<text x="140" y="252" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">received</text>
+<rect x="210.0" y="159.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="224.5" cy="172.5" r="5.44" fill="none" stroke="#555" stroke-width="1.2"/>
+<line x1="229.9" y1="172.5" x2="233.0" y2="172.5" stroke="#555" stroke-width="1.2"/>
+<line x1="228.3" y1="176.3" x2="230.5" y2="178.5" stroke="#555" stroke-width="1.2"/>
+<line x1="224.5" y1="177.9" x2="224.5" y2="181.0" stroke="#555" stroke-width="1.2"/>
+<line x1="220.7" y1="176.3" x2="218.5" y2="178.5" stroke="#555" stroke-width="1.2"/>
+<line x1="219.1" y1="172.5" x2="216.0" y2="172.5" stroke="#555" stroke-width="1.2"/>
+<line x1="220.7" y1="168.7" x2="218.5" y2="166.5" stroke="#555" stroke-width="1.2"/>
+<line x1="224.5" y1="167.1" x2="224.5" y2="164.0" stroke="#555" stroke-width="1.2"/>
+<line x1="228.3" y1="168.7" x2="230.5" y2="166.5" stroke="#555" stroke-width="1.2"/>
+<text x="285" y="196" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">AI agent: extract</text>
+<text x="285" y="214" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">order data (LLM)</text>
+<polygon points="445,174 471,200 445,226 419,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="435.12" y1="190.12" x2="454.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="435.12" y1="209.88" x2="454.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<text x="445" y="149" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">Confident &amp;</text>
+<text x="445" y="166" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">complete?</text>
+<polygon points="600,174 626,200 600,226 574,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="590.12" y1="190.12" x2="609.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="590.12" y1="209.88" x2="609.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<rect x="670.0" y="159.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="684.5" cy="172.5" r="5.44" fill="none" stroke="#555" stroke-width="1.2"/>
+<line x1="689.9" y1="172.5" x2="693.0" y2="172.5" stroke="#555" stroke-width="1.2"/>
+<line x1="688.3" y1="176.3" x2="690.5" y2="178.5" stroke="#555" stroke-width="1.2"/>
+<line x1="684.5" y1="177.9" x2="684.5" y2="181.0" stroke="#555" stroke-width="1.2"/>
+<line x1="680.7" y1="176.3" x2="678.5" y2="178.5" stroke="#555" stroke-width="1.2"/>
+<line x1="679.1" y1="172.5" x2="676.0" y2="172.5" stroke="#555" stroke-width="1.2"/>
+<line x1="680.7" y1="168.7" x2="678.5" y2="166.5" stroke="#555" stroke-width="1.2"/>
+<line x1="684.5" y1="167.1" x2="684.5" y2="164.0" stroke="#555" stroke-width="1.2"/>
+<line x1="688.3" y1="168.7" x2="690.5" y2="166.5" stroke="#555" stroke-width="1.2"/>
+<text x="745" y="196" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Check stock in</text>
+<text x="745" y="214" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">catalogue file</text>
+<polygon points="900,174 926,200 900,226 874,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="890.12" y1="190.12" x2="909.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="890.12" y1="209.88" x2="909.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<text x="900" y="166" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">In stock?</text>
+<polygon points="1180,174 1206,200 1180,226 1154,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="1170.12" y1="190.12" x2="1189.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="1170.12" y1="209.88" x2="1189.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<rect x="1245.0" y="159.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<rect x="1251.0" y="165.7" width="17" height="13.600000000000001" fill="none" stroke="#555" stroke-width="1.2"/>
+<line x1="1251.0" y1="170.29" x2="1268.0" y2="170.29" stroke="#555" stroke-width="1"/>
+<line x1="1256.61" y1="165.7" x2="1256.61" y2="179.3" stroke="#555" stroke-width="1"/>
+<text x="1320" y="196" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Apply pricing and</text>
+<text x="1320" y="214" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">discount rules</text>
+<polygon points="1475,174 1501,200 1475,226 1449,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="1465.12" y1="190.12" x2="1484.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="1465.12" y1="209.88" x2="1484.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<text x="1475" y="149" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">Discount &gt;</text>
+<text x="1475" y="166" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">10%?</text>
+<polygon points="1620,174 1646,200 1620,226 1594,200" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="1610.12" y1="190.12" x2="1629.88" y2="209.88" stroke="#333" stroke-width="2.2"/>
+<line x1="1610.12" y1="209.88" x2="1629.88" y2="190.12" stroke="#333" stroke-width="2.2"/>
+<rect x="1545.0" y="579.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="1559.5" cy="592.5" r="5.44" fill="none" stroke="#555" stroke-width="1.2"/>
+<line x1="1564.9" y1="592.5" x2="1568.0" y2="592.5" stroke="#555" stroke-width="1.2"/>
+<line x1="1563.3" y1="596.3" x2="1565.5" y2="598.5" stroke="#555" stroke-width="1.2"/>
+<line x1="1559.5" y1="597.9" x2="1559.5" y2="601.0" stroke="#555" stroke-width="1.2"/>
+<line x1="1555.7" y1="596.3" x2="1553.5" y2="598.5" stroke="#555" stroke-width="1.2"/>
+<line x1="1554.1" y1="592.5" x2="1551.0" y2="592.5" stroke="#555" stroke-width="1.2"/>
+<line x1="1555.7" y1="588.7" x2="1553.5" y2="586.5" stroke="#555" stroke-width="1.2"/>
+<line x1="1559.5" y1="587.1" x2="1559.5" y2="584.0" stroke="#555" stroke-width="1.2"/>
+<line x1="1563.3" y1="588.7" x2="1565.5" y2="586.5" stroke="#555" stroke-width="1.2"/>
+<text x="1620" y="607" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Register order</text>
+<text x="1620" y="625" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">and send</text>
+<text x="1620" y="643" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">confirmation</text>
+<rect x="370.0" y="479.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="384.5" cy="489.44" r="3.74" fill="none" stroke="#555" stroke-width="1.2"/>
+<path d="M 378.04 501.0 Q 384.5 492.5 390.96 501.0" fill="none" stroke="#555" stroke-width="1.2"/>
+<text x="445" y="507" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Review and</text>
+<text x="445" y="525" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">correct extracted</text>
+<text x="445" y="543" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">order</text>
+<rect x="825.0" y="479.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="839.5" cy="489.44" r="3.74" fill="none" stroke="#555" stroke-width="1.2"/>
+<path d="M 833.04 501.0 Q 839.5 492.5 845.96 501.0" fill="none" stroke="#555" stroke-width="1.2"/>
+<text x="900" y="507" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Propose</text>
+<text x="900" y="525" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">substitute to</text>
+<text x="900" y="543" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">customer</text>
+<polygon points="1055,494 1081,520 1055,546 1029,520" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<line x1="1045.12" y1="510.12" x2="1064.88" y2="529.88" stroke="#333" stroke-width="2.2"/>
+<line x1="1045.12" y1="529.88" x2="1064.88" y2="510.12" stroke="#333" stroke-width="2.2"/>
+<text x="1055" y="486" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">Accepts?</text>
+<circle cx="1055" cy="640" r="18" fill="#fff" stroke="#333" stroke-width="3.2"/>
+<text x="1055" y="675" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">Order cancelled</text>
+<rect x="1400.0" y="479.0" width="150" height="82" rx="10" ry="10" fill="#ffffff" stroke="#333" stroke-width="1.6"/>
+<circle cx="1414.5" cy="489.44" r="3.74" fill="none" stroke="#555" stroke-width="1.2"/>
+<path d="M 1408.04 501.0 Q 1414.5 492.5 1420.96 501.0" fill="none" stroke="#555" stroke-width="1.2"/>
+<text x="1475" y="525" font-family="Helvetica, Arial, sans-serif" font-size="16.9" text-anchor="middle">Approve discount</text>
+<polyline points="158,200 210,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="360,200 419,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="445,226 445,479" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="461.0" y="362.5" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">no</text>
+<polyline points="520,520 600,520 600,226" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="471,200 574,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="522.5" y="192.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">yes</text>
+<polyline points="626,200 670,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="820,200 874,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="900,226 900,479" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="916.0" y="362.5" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">no</text>
+<polyline points="975,520 1029,520" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="1055,546 1055,622" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1073.0" y="590.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">no</text>
+<polyline points="1081,520 1180,520 1180,226" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1136.5" y="512.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">yes</text>
+<polyline points="926,200 1154,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="950.0" y="192.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">yes</text>
+<polyline points="1206,200 1245,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="1395,200 1449,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="1475,226 1475,479" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1493.0" y="362.5" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">yes</text>
+<polyline points="1501,200 1594,200" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="1547.5" y="192.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">no</text>
+<polyline points="1550,520 1620,520 1620,226" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="1620,226 1700,226 1700,480 1620,480 1620,579" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="140,66 140,182" fill="none" stroke="#555" stroke-width="1.4" stroke-dasharray="6,5" marker-end="url(#openarrow)"/>
+<circle cx="140" cy="66" r="4" fill="#fff" stroke="#555" stroke-width="1.3"/>
+<text x="184.0" y="128.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">Order text</text>
+<polyline points="840,500 820,500 820,66" fill="none" stroke="#555" stroke-width="1.4" stroke-dasharray="6,5" marker-end="url(#openarrow)"/>
+<circle cx="840" cy="500" r="4" fill="#fff" stroke="#555" stroke-width="1.3"/>
+<text x="830.0" y="590.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">Substitute offer</text>
+<polyline points="1620,661 1745,661 1745,66" fill="none" stroke="#555" stroke-width="1.4" stroke-dasharray="6,5" marker-end="url(#openarrow)"/>
+<circle cx="1620" cy="661" r="4" fill="#fff" stroke="#555" stroke-width="1.3"/>
+<text x="1682.5" y="481.0" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-style="italic" text-anchor="middle" fill="#111">Confirmation</text>
+<circle cx="1520" cy="620" r="20" fill="#fff" stroke="#333" stroke-width="1.6"/>
+<circle cx="1520" cy="620" r="16.5" fill="none" stroke="#333" stroke-width="1.2"/>
+<path d="M 1512 614 L 1522 614 L 1522 610 L 1530 620 L 1522 630 L 1522 626 L 1512 626 Z" fill="#333" stroke="#333" stroke-width="1.2"/>
+<text x="1520" y="657" font-family="Helvetica, Arial, sans-serif" font-size="15.5" text-anchor="middle" fill="#111">To Phase B</text>
+<polyline points="1545,620 1542,620" fill="none" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
+</svg>
