@@ -1,7 +1,7 @@
 # order-to-cash-rpa-agentic-ai
 # WholesaleCo Order-to-Cash Automation - Implementation
 
-Student: Ali Akarsu - Student ID: 24304051 - MSc in Artificial Intelligence (MSCAIJAN26I)
+Author: Ali Akarsu
 
 Two automation solutions for the B2B food-wholesale Order-to-Cash process
 modelled in the report (Figures 1 and 2):
